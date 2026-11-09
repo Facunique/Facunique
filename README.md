@@ -14,21 +14,22 @@
 - 📍 Desde **Tierra del Fuego, Argentina**
 - 🎓 Estudiante de la **Licenciatura en Sistemas** en la **UNTDF**
 - ⚖️ Actualmente haciendo una **pasantía en el Poder Judicial**
-- 🐍 **Python**: lo uso en mis proyectos propios y también en la facultad
-- ☕ **Java**: lo uso en la facultad
-- 🌱 Aprendiendo: arquitectura backend, bases de datos y desarrollo web
+- 🐍 Programo en **Python** y **Java**, para proyectos propios y para la facultad
+- 🧭 Me oriento a **Project Management** y **GRC** (gobierno, riesgo y cumplimiento)
 
 ---
 
 ### 💼 Experiencia
 
 - ⚖️ **Poder Judicial** · Pasantía *(actualidad)*
+- 📋 **PrestaMeDios** · Project Manager de un equipo de 5 personas *(actualidad)*
 - 🏦 **Banco Tierra del Fuego** · Gestión de Riesgo Tecnológico
 
 ---
 
 ### 🧠 Habilidades
 
+- 📋 **Gestión de proyectos**: coordinación de equipos, planificación y seguimiento
 - 🛡️ **Gestión de riesgos tecnológicos y operacionales**: identificación, evaluación y seguimiento de riesgos
 - 💻 **Desarrollo de software**: backend y frontend en proyectos propios y académicos
 - 🔍 **Análisis de software**: relevamiento de requisitos y modelado de sistemas *(en crecimiento)*
@@ -52,6 +53,7 @@
     <td valign="top">
       <h4>🎬 <a href="https://github.com/PrestaMeDios-org">PrestaMeDios</a></h4>
       <p>Sistema de préstamos de equipamiento y reservas de espacios para el Laboratorio de Medios Audiovisuales de la UNTDF (sedes Ushuaia y Río Grande).</p>
+      <p>📋 <b>Mi rol: Project Manager</b> de un equipo de 5 personas. Coordino la planificación, las tareas y el seguimiento del proyecto.</p>
       <p><code>FastAPI</code> <code>PostgreSQL</code> <code>React 19</code> <code>Tailwind</code></p>
     </td>
   </tr>
