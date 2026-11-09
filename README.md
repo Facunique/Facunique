@@ -12,10 +12,28 @@
 ### 🧉 Sobre mí
 
 - 📍 Desde **Tierra del Fuego, Argentina**
-- 🎓 Estudiando programación en la **UNTDF**
+- 🎓 Estudiante de la **Licenciatura en Sistemas** en la **UNTDF**
+- ⚖️ Actualmente haciendo una **pasantía en el Poder Judicial**
 - 🐍 **Python**: lo uso en mis proyectos propios y también en la facultad
 - ☕ **Java**: lo uso en la facultad
 - 🌱 Aprendiendo: arquitectura backend, bases de datos y desarrollo web
+
+---
+
+### 💼 Experiencia
+
+- ⚖️ **Poder Judicial** · Pasantía *(actualidad)*
+- 🏦 **Banco Tierra del Fuego** · Gestión de Riesgo Tecnológico
+
+---
+
+### 🧠 Habilidades
+
+- 🛡️ **Gestión de riesgos tecnológicos y operacionales**: identificación, evaluación y seguimiento de riesgos
+- 💻 **Desarrollo de software**: backend y frontend en proyectos propios y académicos
+- 🔍 **Análisis de software**: relevamiento de requisitos y modelado de sistemas *(en crecimiento)*
+- 🏗️ **Análisis de arquitectura**: diseño y evaluación de la estructura de sistemas *(en crecimiento)*
+- 🗄️ **Bases de datos**: modelado y diseño relacional *(en crecimiento)*
 
 ---
 
@@ -44,8 +62,8 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Facunique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facunique&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Facunique&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Facunique&theme=tokyonight" />
 </p>
 
 <p align="center">
