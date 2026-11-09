@@ -13,7 +13,7 @@
 
 - 📍 Desde **Tierra del Fuego, Argentina**
 - 🎓 Estudiante de la **Licenciatura en Sistemas** en la **UNTDF**
-- ⚖️ Actualmente haciendo una **pasantía en el Poder Judicial**
+- ⚖️ Por comenzar una **pasantía en el Poder Judicial**
 - 🐍 Programo en **Python** y **Java**, para proyectos propios y para la facultad
 - 🧭 Me oriento a **Project Management** y **GRC** (gobierno, riesgo y cumplimiento)
 
@@ -21,9 +21,11 @@
 
 ### 💼 Experiencia
 
-- ⚖️ **Poder Judicial** · Pasantía *(actualidad)*
+- ⚖️ **Poder Judicial** · Pasantía en el área de tecnología *(por comenzar)*
 - 📋 **PrestaMeDios** · Project Manager de un equipo de 5 personas *(actualidad)*
-- 🏦 **Banco Tierra del Fuego** · Gestión de Riesgo Tecnológico
+- 🏦 **Banco Tierra del Fuego** · *2 años y medio*
+  - Gestor de Riesgo Tecnológico
+  - Luego, Gestión de Riesgos Tecnológicos y Operacionales
 
 ---
 
