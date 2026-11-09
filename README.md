@@ -22,9 +22,7 @@
 ### 💼 Experiencia
 
 - ⚖️ **Poder Judicial** · Pasantía en el área de tecnología *(por comenzar)*
-- 🏦 **Banco Tierra del Fuego** · *2 años y medio*
-  - Gestor de Riesgo Tecnológico
-  - Luego, Gestión de Riesgos Tecnológicos y Operacionales
+- 🏦 **Banco Tierra del Fuego** · Gestión de Riesgos Tecnológicos y Operacionales *(2 años y medio)*
 
 ---
 
