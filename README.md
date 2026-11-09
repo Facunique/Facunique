@@ -22,7 +22,6 @@
 ### 💼 Experiencia
 
 - ⚖️ **Poder Judicial** · Pasantía en el área de tecnología *(por comenzar)*
-- 📋 **PrestaMeDios** · Project Manager de un equipo de 5 personas *(actualidad)*
 - 🏦 **Banco Tierra del Fuego** · *2 años y medio*
   - Gestor de Riesgo Tecnológico
   - Luego, Gestión de Riesgos Tecnológicos y Operacionales
@@ -37,6 +36,12 @@
 - 🔍 **Análisis de software**: relevamiento de requisitos y modelado de sistemas *(en crecimiento)*
 - 🏗️ **Análisis de arquitectura**: diseño y evaluación de la estructura de sistemas *(en crecimiento)*
 - 🗄️ **Bases de datos**: modelado y diseño relacional *(en crecimiento)*
+
+**🤝 Lo personal**
+
+- ☀️ **Positivo y optimista**: me gustan los ambientes de buena onda y suelo llevar esa energía a donde esté
+- 🧘 **Calma bajo presión**: en el banco me desempeñé muy bien en momentos de crisis y estrés, ayudando a transformar tiempos tensos en tiempos de calma
+- 🤗 **Buen compañero**: me llevo bien con la gente y disfruto trabajar en equipo
 
 ---
 
