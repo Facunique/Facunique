@@ -15,7 +15,7 @@
 - 🎓 Estudiante de la **Licenciatura en Sistemas** en la **UNTDF**
 - ⚖️ Por comenzar una **pasantía en el Poder Judicial**
 - 🐍 Programo en **Python** y **Java**, para proyectos propios y para la facultad
-- 🧭 Me oriento a **Project Management** y **GRC** (gobierno, riesgo y cumplimiento)
+- 🧭 Me oriento a **Project Management** y **GRC**
 
 ---
 
