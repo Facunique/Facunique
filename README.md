@@ -39,8 +39,8 @@
 
 ### 🤝 Lo personal
 
-- ☀️ **Happy Go Lucky**: me gustan los ambientes de buena onda y suelo llevar esa energía a donde esté
-- 🧘 **Low low cortisol**: en el banco me desempeñé muy bien en momentos de crisis y estrés, ayudando a transformar tiempos tensos en tiempos de calma
+- ☀️ **Easy going**: me gustan los ambientes de buena onda y suelo llevar esa energía a donde esté
+- 🧘 **Low low cortisol**: en el banco me desempeñé muy bien en momentos de crisis y estrés, ayudando a transformar tiempos tensos en tiempos tranquilos
 - 🤗 **Team player**: me llevo bien con la gente y disfruto trabajar en equipo
 
 ---
